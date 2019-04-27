@@ -24,7 +24,7 @@ Page({
       address: '宝鸡市千阳县东大街15号',
       cover: 'https://hbimg.huabanimg.com/ee715b2b8f8da6a555128ba1c92d719e4c5a1b47185f4-53WvIQ_fw658',
     },
-    music_url: 'http://www.ytmp3.cn/down/49442.mp3',
+    music_url: 'http://music.163.com/song/media/outer/url?id=38358222.mp3',
     isPlayingMusic: true
   },
 
